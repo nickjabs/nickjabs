@@ -7,7 +7,7 @@ a DevOps and Cloud Enthusiast.
 I am a passionate cloud computing student seeking an entry-level position. I have a strong foundation in cloud technology and am eager to expand my knowledge further."
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [https://nickjabs-website.com/](http://nickjabs-website.com/)
+* 🖥️  See my homepage at [https://nickjabs-website.com/](http://nickjabs-website.com/)
 * ✉️  You can contact me at [nickjabs.bewerbung@gmail.com](mailto:nickjabs.bewerbung@gmail.com)
 * 🧠  I'm learning CI/CD
 
