@@ -11,23 +11,6 @@ I am a passionate cloud computing student seeking an entry-level position. I hav
 * ✉️  You can contact me at [nickjabs.bewerbung@gmail.com](mailto:nickjabs.bewerbung@gmail.com)
 * 🧠  I'm learning CI/CD
 
-### Skills Webdevelopment
-
-### Skills DevOps
-
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-cloud-computing-cloud-storage-justicon-flat-justicon.png" width="36" height="36" alt="Terraform" />
-</a>
-
-
-
-
-
-
- 
-
-
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/nickjabs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/nickjabs/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@nickjabs" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
