@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 a DevOps and Cloud Enthusiast.
 ------------------------------
 
-I am a passionate cloud computing student seeking an entry-level position. I have a strong foundation in cloud technology and am eager to expand my knowledge further."
+Passionate about cloud computing and DevOps, I bring a strong foundation in both fields. Eager to apply DevOps methodologies to streamline processes and enhance system reliability in an entry-level role.
 
 * 🌍  I'm based in Germany
 * 🖥️  See my homepage at [https://nickjabs-website.com/](http://nickjabs-website.com/)
