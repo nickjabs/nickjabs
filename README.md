@@ -15,9 +15,10 @@ I am a passionate cloud computing student seeking an entry-level position. I hav
 
 ### Skills DevOps
 
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=100&id=IwkGgO-3zk0A&format=png" width="36" height="36" alt="Ansible" />
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-cloud-computing-cloud-storage-justicon-flat-justicon.png" width="36" height="36" alt="Terraform" />
 </a>
+
 
 
 
