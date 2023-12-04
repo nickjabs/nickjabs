@@ -27,5 +27,6 @@ Explore the code and instructions: [GitHub Actions Pipeline Demo](https://github
 
 This project demonstrates the deployment of AWS Lambda functions, an API Gateway, and an S3 bucket using Terraform. It creates a serverless architecture that enables processing data via HTTP requests and storing it in S3 buckets.
 Explore the code and instructions: [Terraform Lambda, API Gateway, S3](https://github.com/nickjabs/terraform-lambda-apigw-s3)
-Feel free to check out the repository! If you have any questions or suggestions, I'd love to hear from you!
+
+<p>Feel free to check out the repository! If you have any questions or suggestions, I'd love to hear from you! </p>
 
