@@ -21,21 +21,3 @@ I've created a demonstration pipeline using GitHub Actions showcasing deploying 
 Explore the code and instructions: [GitHub Actions Pipeline Demo](https://github.com/nickjabs/github-actions-pipeline)
 
 Feel free to check out the repository! If you have any questions or suggestions, I'd love to hear from you!
-
-## Terraform AWS Lambda, API Gateway, and S3 Deployment
-
-This project demonstrates the deployment of AWS Lambda functions, an API Gateway, and an S3 bucket using Terraform. It creates a serverless architecture that enables processing data via HTTP requests and storing it in S3 buckets.
-
-### Project Details
-
-- **Lambda Function**: Processes incoming data, converting it to JSON and storing it in the designated S3 bucket.
-- **API Gateway**: Provides endpoints to trigger the Lambda function via HTTP POST requests.
-- **S3 Bucket**: Stores the processed JSON data.
-
-### Usage
-
-Deploy the infrastructure using Terraform and trigger the Lambda function by making HTTP POST requests to the specified API Gateway endpoint (`POST /post2s3`). This project is suitable for scenarios requiring serverless data processing pipelines.
-
-Explore the code and detailed instructions: [Terraform Lambda, API Gateway, S3](https://github.com/nickjabs/terraform-lambda-apigw-s3)
-
-Feel free to check out the repository! If you have any questions or suggestions, I'd love to hear from you!
