@@ -26,9 +26,11 @@ Passionate about cloud computing and DevOps, I bring a strong foundation in both
 
 ### I am certified:
 
-- AWS Cloud Practitioner :cloud:
-- Scrum Master Certification :clipboard:
-- Linux Essentials Certification :penguin:
+- AWS Cloud Practitioner [:cloud:](https://www.credly.com/badges/c397034b-ec8f-4d23-833c-04e0dc428764)
+- Linux Essentials Certification [:penguin:](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000566721/4kar73bzpu)
+- AWS Restarter Program Graduate [:rocket:](https://www.credly.com/badges/3c5b5465-53b0-4010-8015-3cf573ae3dcc)
+- Scrum Master Certification [:clipboard:](https://www.credly.com/badges/abcc36c1-8bf9-47db-822a-6f8b0698eae0)
+
 
 
 
