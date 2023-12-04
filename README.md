@@ -22,8 +22,8 @@ Passionate about cloud computing and DevOps, I bring a strong foundation in both
 
 
 
-<a href="https://YOUR_MEDIUM_IMAGE_LINK_HERE" target="_blank" rel="noreferrer">
-  <img src="https://imgs.search.brave.com/YOUR_MEDIUM_IMAGE_LINK_HERE" alt="Medium" width="24" height="24">
+<a href="https://seeklogo.com/images/M/medium-2020-new-icon-logo-454E46D050-seeklogo.com.png" target="_blank" rel="noreferrer">
+  <img src="https://seeklogo.com/images/M/medium-2020-new-icon-logo-454E46D050-seeklogo.com.png" alt="Medium" width="24" height="24">
 </a>
 
 
