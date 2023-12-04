@@ -16,23 +16,26 @@ Passionate about cloud computing and DevOps, I bring a strong foundation in both
 </a>
 
 <a href="http://www.medium.com/@nickjabs" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" alt="Medium" width="35" height="35">
+  <img src="https://seeklogo.com/images/M/medium-2020-new-icon-logo-454E46D050-seeklogo.com.png" alt="Medium" width="35" height="35">
 </a>
+
+
+
+
+<a href="https://YOUR_MEDIUM_IMAGE_LINK_HERE" target="_blank" rel="noreferrer">
+  <img src="https://imgs.search.brave.com/YOUR_MEDIUM_IMAGE_LINK_HERE" alt="Medium" width="24" height="24">
+</a>
+
 
 
 ## GitHub Actions Demo Pipeline
 
 I've created a demonstration pipeline using GitHub Actions showcasing deploying a Node.js application on EC2. This demonstrates the power of continuous integration and deployment (CI/CD) using GitHub's automation tools.
-
 Explore the code and instructions: [GitHub Actions Pipeline Demo](https://github.com/nickjabs/github-actions-pipeline)
-
-Feel free to check out the repository! If you have any questions or suggestions, I'd love to hear from you!
 
 ## Terraform Demo
 
 This project demonstrates the deployment of AWS Lambda functions, an API Gateway, and an S3 bucket using Terraform. It creates a serverless architecture that enables processing data via HTTP requests and storing it in S3 buckets.
-
 Explore the code and instructions: [Terraform Lambda, API Gateway, S3](https://github.com/nickjabs/terraform-lambda-apigw-s3)
-
 Feel free to check out the repository! If you have any questions or suggestions, I'd love to hear from you!
 
