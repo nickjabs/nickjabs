@@ -11,8 +11,14 @@ Passionate about cloud computing and DevOps, I bring a strong foundation in both
 
 ### Socials
 
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/nickjabs/)
-[![Medium](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg)](http://www.medium.com/@nickjabs)
+<a href="https://www.linkedin.com/in/nickjabs/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="24" height="24">
+</a>
+
+<a href="http://www.medium.com/@nickjabs" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" alt="Medium" width="24" height="24">
+</a>
+
 
 ## GitHub Actions Demo Pipeline
 
