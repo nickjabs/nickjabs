@@ -11,18 +11,19 @@ Passionate about cloud computing and DevOps, I bring a strong foundation in both
 
 ### Socials
 
-<ul>
-  <li>
+<ul style="list-style: none; padding: 0;">
+  <li style="display: inline-block; margin-right: 10px;">
     <a href="https://www.linkedin.com/in/nickjabs/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" width="35" height="35">
     </a>
   </li>
-  <li>
+  <li style="display: inline-block;">
     <a href="http://www.medium.com/@nickjabs" target="_blank" rel="noreferrer">
       <img src="https://seeklogo.com/images/M/medium-2020-new-icon-logo-454E46D050-seeklogo.com.png" alt="Medium" width="35" height="35">
     </a>
   </li>
 </ul>
+
 
 
 ## GitHub Actions Demo Pipeline
