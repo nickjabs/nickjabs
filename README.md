@@ -24,6 +24,11 @@ Passionate about cloud computing and DevOps, I bring a strong foundation in both
   </li>
 </ul>
 
+I am certified:
+- AWS Cloud Practitioner :cloud:
+- Scrum Master Certification :clipboard:
+- Linux Essentials Certification :penguin:
+
 
 
 ## GitHub Actions Demo Pipeline
