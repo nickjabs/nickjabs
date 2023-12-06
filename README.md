@@ -31,19 +31,18 @@ Passionate about cloud computing and DevOps, I bring a strong foundation in both
 - AWS Restarter Program Graduate [:rocket:](https://www.credly.com/badges/3c5b5465-53b0-4010-8015-3cf573ae3dcc)
 - Scrum Master Certification [:clipboard:](https://www.credly.com/badges/abcc36c1-8bf9-47db-822a-6f8b0698eae0)
 
-## GitHub Actions Demo Pipeline
+## GitHub Actions Demo
 
-I've created a demonstration pipeline using GitHub Actions showcasing deploying a Node.js application on EC2. This demonstrates the power of continuous integration and deployment (CI/CD) using GitHub's automation tools.
-Explore the code and instructions: [GitHub Actions Pipeline Demo](https://github.com/nickjabs/github-actions-pipeline)
+This demo showcases deploying a Node.js application on EC2 using GitHub Actions. Experience the power of continuous integration and deployment (CI/CD) with GitHub's automation tools: [GitHub Actions Pipeline Demo](https://github.com/nickjabs/github-actions-pipeline)
 
-## Jenkins Demo Pipeline
-[**Jenkins Demo Pipeline**](https://github.com/nickjabs/jenkins-react-app)
+## Jenkins Demo
 
+Explore the Jenkins Demo Pipeline, a hands-on CI/CD solution for a React application: [Jenkins Demo Pipeline](https://github.com/nickjabs/jenkins-react-app)
 
 ## Terraform Demo
 
-This project demonstrates the deployment of AWS Lambda functions, an API Gateway, and an S3 bucket using Terraform. It creates a serverless architecture that enables processing data via HTTP requests and storing it in S3 buckets.
-Explore the code and instructions: [Terraform Lambda, API Gateway, S3](https://github.com/nickjabs/terraform-lambda-apigw-s3)
+Discover a simple hands-on demonstration using Terraform to deploy AWS Lambda functions, an API Gateway, and an S3 bucket. Create a serverless architecture for data processing and storage: [Terraform Lambda, API Gateway, S3](https://github.com/nickjabs/terraform-lambda-apigw-s3)
 
-<p>Feel free to explore different projects on my GitHub profile. I'd love to hear from you! </p>
+Feel free to explore these demos and other projects on my GitHub profile. Your feedback is valuable!
+
 
