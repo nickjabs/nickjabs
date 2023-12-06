@@ -36,8 +36,8 @@ Passionate about cloud computing and DevOps, I bring a strong foundation in both
 I've created a demonstration pipeline using GitHub Actions showcasing deploying a Node.js application on EC2. This demonstrates the power of continuous integration and deployment (CI/CD) using GitHub's automation tools.
 Explore the code and instructions: [GitHub Actions Pipeline Demo](https://github.com/nickjabs/github-actions-pipeline)
 
-## Jenkins Demo Pipeline
-https://github.com/nickjabs/jenkins-react-app
+[**Jenkins Demo Pipeline**](https://github.com/nickjabs/jenkins-react-app)
+
 
 ## Terraform Demo
 
