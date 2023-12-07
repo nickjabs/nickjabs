@@ -45,6 +45,7 @@ Explore a simple hands-on demonstration using Terraform to deploy AWS Lambda fun
 
 Weather Alert System: The project sets up a serverless weather alert system using AWS services like Lambda, DynamoDB, and SNS to process, store, and notify based on weather data updates. Discover it here: Weather Alert System with AWS Lambda and DynamoDB [the project](https://github.com/nickjabs/sns-lambda-dynamo.db)
 
+## 
 Feel free to explore these demos and other projects on my GitHub profile. Your feedback is valuable!
 
 
