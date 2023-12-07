@@ -41,9 +41,9 @@ Explore the Jenkins Demo Pipeline, a hands-on CI/CD solution for a React applica
 
 ## Terraform Demo
 
-Explore a simple hands-on demonstration using Terraform to deploy AWS Lambda functions, an API Gateway, and an S3 bucket. Create a serverless architecture for data processing and storage: [Project](https://github.com/nickjabs/terraform-lambda-apigw-s3)
+Explore a simple hands-on demonstration using Terraform to deploy AWS Lambda functions, an API Gateway, and an S3 bucket. Create a serverless architecture for data processing and storage: [the project](https://github.com/nickjabs/terraform-lambda-apigw-s3)
 
-Weather Alert System: The project sets up a serverless weather alert system using AWS services like Lambda, DynamoDB, and SNS to process, store, and notify based on weather data updates. Discover it here: Weather Alert System with AWS Lambda and DynamoDB [terraform](https://github.com/nickjabs/sns-lambda-dynamo.db)
+Weather Alert System: The project sets up a serverless weather alert system using AWS services like Lambda, DynamoDB, and SNS to process, store, and notify based on weather data updates. Discover it here: Weather Alert System with AWS Lambda and DynamoDB [the project](https://github.com/nickjabs/sns-lambda-dynamo.db)
 
 Feel free to explore these demos and other projects on my GitHub profile. Your feedback is valuable!
 
