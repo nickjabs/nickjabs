@@ -43,9 +43,9 @@ Explore the Jenkins Demo Pipeline, a hands-on CI/CD solution for a React applica
 
 ## <img src="https://camo.githubusercontent.com/daf972f2f9b0d9408a48499719ade979cef6c187eed22eaeada6e7dec7122c6d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7465727261666f726d696f2f7465727261666f726d696f2d69636f6e2e737667" alt="Terraform Logo"> Terraform Demo 
 
-Explore a simple hands-on demonstration using Terraform to deploy AWS Lambda functions, an API Gateway, and an S3 bucket. Create a serverless architecture for data processing and storage: [the project](https://github.com/nickjabs/terraform-lambda-apigw-s3)
+Explore a simple hands-on demonstration using Terraform to deploy AWS Lambda functions, an API Gateway, and an S3 bucket. Create a serverless architecture for data processing and storage: [Iac](https://github.com/nickjabs/terraform-lambda-apigw-s3)
 
-Weather Alert System: The project sets up a serverless weather alert system using AWS services like Lambda, DynamoDB, and SNS to process, store, and notify based on weather data updates. Discover it here: Weather Alert System with AWS Lambda and DynamoDB [the project](https://github.com/nickjabs/sns-lambda-dynamo.db)
+Weather Alert System: The project sets up a serverless weather alert system using AWS services like Lambda, DynamoDB, and SNS to process, store, and notify based on weather data updates. Discover it here: Weather Alert System with AWS Lambda and DynamoDB [Iac](https://github.com/nickjabs/sns-lambda-dynamo.db)
 
 ## 
 Feel free to explore these demos and other projects on my GitHub profile. Your feedback is valuable!
