@@ -49,7 +49,7 @@ The project sets up a serverless weather alert system using AWS services like La
 
 ## <img src="https://camo.githubusercontent.com/deb558f6629474a8f95abfb9e875b127517b3ebcfbc20068d20b7918901fe721/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e7369626c652f616e7369626c652d69636f6e2e737667" alt="Ansible Logo"> Ansible Demo
 
-This Ansible project automates the installation and configuration of Grafana, Alertmanager, and Prometheus for monitoring purposes.: [Jenkins Demo Pipeline](https://github.com/nickjabs/monitoring-ansible)
+This Ansible project automates the installation and configuration of Grafana, Alertmanager, and Prometheus for monitoring purposes.: [Demo Monitoring](https://github.com/nickjabs/monitoring-ansible)
 
 
 ## 
