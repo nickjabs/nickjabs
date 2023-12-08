@@ -47,6 +47,11 @@ Explore a simple hands-on demonstration using Terraform to deploy AWS Lambda fun
 
 The project sets up a serverless weather alert system using AWS services like Lambda, DynamoDB, and SNS to process, store, and notify based on weather data updates. Discover it here: [IaC](https://github.com/nickjabs/sns-lambda-dynamo.db)
 
+## Ansible Demo [Automation]<img src=https://camo.githubusercontent.com/deb558f6629474a8f95abfb9e875b127517b3ebcfbc20068d20b7918901fe721/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f616e7369626c652f616e7369626c652d69636f6e2e737667https://github.com/nickjabs/monitoring-ansible/tree/main>
+
+This project showcases my hands-on experience with Ansible
+
+
 ## 
 Feel free to explore these demos and other projects on my GitHub profile. Your feedback is valuable!
 
