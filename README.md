@@ -51,6 +51,12 @@ The project sets up a serverless weather alert system using AWS services like La
 
 This Ansible project automates the installation and configuration of Grafana, Alertmanager, and Prometheus for monitoring purposes.: [Demo Monitoring](https://github.com/nickjabs/monitoring-ansible)
 
+## AWS Projects 
+The project architecture involves coordinating between the Lambda function, the Bedrock model, and an API endpoint exposed through AWS API Gateway using Node.js and Python.
+
+[![AWS Logo](https://example.com/path/to/aws-logo.png)](https://github.com/nickjabs/api-bedrock-summerizer)
+
+
 
 ## 
 Feel free to explore these demos and other projects on my GitHub profile. Your feedback is valuable!
