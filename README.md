@@ -55,7 +55,8 @@ This Ansible project automates the installation and configuration of Grafana, Al
 
 The project architecture involves coordinating between the Lambda function, the Bedrock model, and an API endpoint exposed through AWS API Gateway using Node.js and Python.
 
-[![AWS Logo](https://logohistory.net/wp-content/uploads/2023/06/AWS-Logo.png)](https://github.com/nickjabs/api-bedrock-summerizer)
+<a href="https://github.com/nickjabs/api-bedrock-summerizer"><img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Logo.png" alt="AWS Logo" width="50" height="50"></a>
+
 
 
 
