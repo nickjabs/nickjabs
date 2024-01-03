@@ -39,7 +39,6 @@ This demo showcases deploying a Node.js application on EC2 using GitHub Actions.
 
 [![Jenkins Logo](https://imgs.search.brave.com/Y8BJUys9K6KYa4qjlUIBsLfY0DZWpgEo-Bh70Fn_mm8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maWxlLXR5/cGUtamVua2lucy1p/Y29uLTIzM3gyNTYt/ejhrdDMweTYucG5n =80x80)](https://github.com/nickjabs/jenkins-react-app)
 
-Explore the Jenkins Demo Pipeline, a hands-on CI/CD solution for a React application: [Jenkins Demo Pipeline](https://github.com/nickjabs/jenkins-react-app)
 
 
 
