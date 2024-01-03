@@ -37,7 +37,7 @@ Passionate about cloud computing and DevOps, I bring a strong foundation in both
 
 This demo showcases deploying a Node.js application on EC2 using GitHub Actions. Experience the power of continuous integration and deployment (CI/CD) with GitHub's automation tools: [GitHub Actions Pipeline Demo](https://github.com/nickjabs/github-actions-pipeline)
 
-[![Jenkins Logo](https://imgs.search.brave.com/Y8BJUys9K6KYa4qjlUIBsLfY0DZWpgEo-Bh70Fn_mm8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maWxlLXR5/cGUtamVua2lucy1p/Y29uLTIzM3gyNTYt/ejhrdDMweTYucG5n)](https://github.com/nickjabs/jenkins-react-app)
+[![Jenkins Logo](https://imgs.search.brave.com/Y8BJUys9K6KYa4qjlUIBsLfY0DZWpgEo-Bh70Fn_mm8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maWxlLXR5/cGUtamVua2lucy1p/Y29uLTIzM3gyNTYt/ejhrdDMweTYucG5n width="80" height="auto")](https://github.com/nickjabs/jenkins-react-app)
 
 Explore the Jenkins Demo Pipeline, a hands-on CI/CD solution for a React application: [Jenkins Demo Pipeline](https://github.com/nickjabs/jenkins-react-app)
 
