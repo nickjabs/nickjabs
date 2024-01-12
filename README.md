@@ -37,7 +37,7 @@ Passionate about cloud computing and DevOps, I bring a strong foundation in both
 
 This demo showcases deploying a Node.js application on EC2 using GitHub Actions. Experience the power of continuous integration and deployment (CI/CD) with GitHub's automation tools: [GitHub Actions Pipeline Demo](https://github.com/nickjabs/github-actions-pipeline)
 
-## <img src="https://iconduck.com/icons/102035/file-type-jenkins?shared" alt="Jenkins Logo" width="80" height="80"> Jenkins Demo
+## Jenkins Demo
 
 Explore the Jenkins Demo Pipeline, a hands-on CI/CD solution for a React application: [Jenkins Demo Pipeline](https://github.com/nickjabs/jenkins-react-app)
 
@@ -47,7 +47,7 @@ Explore the Jenkins Demo Pipeline, a hands-on CI/CD solution for a React applica
 
 
 
-## <img src="https://camo.githubusercontent.com/daf972f2f9b0d9408a48499719ade979cef6c187eed22eaeada6e7dec7122c6d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7465727261666f726d696f2f7465727261666f726d696f2d69636f6e2e737667" alt="Terraform Logo"> Terraform Demo 
+## Terraform Demo 
 
 Explore a simple hands-on demonstration using Terraform to deploy AWS Lambda functions, an API Gateway, and an S3 bucket. Create a serverless architecture for data processing and storage: [IaC](https://github.com/nickjabs/terraform-lambda-apigw-s3)
 
